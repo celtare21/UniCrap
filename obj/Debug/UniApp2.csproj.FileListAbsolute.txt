@@ -1,0 +1,11 @@
+C:\Users\Kuran Kaname\source\repos\UniApp2\bin\Debug\UniApp2.exe.config
+C:\Users\Kuran Kaname\source\repos\UniApp2\bin\Debug\UniApp2.exe
+C:\Users\Kuran Kaname\source\repos\UniApp2\bin\Debug\UniApp2.pdb
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.csprojAssemblyReference.cache
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.Properties.Resources.resources
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.SignUpForm.resources
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.csproj.GenerateResource.cache
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.exe
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.pdb
+C:\Users\Kuran Kaname\source\repos\UniApp2\obj\Debug\UniApp2.LoginForm.resources
